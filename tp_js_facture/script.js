@@ -28,5 +28,8 @@ document.getElementById("t7").value=""
 document.getElementById("t9").value=""
 document.getElementById("t10").value=""
 document.getElementById("t11").value=""
+document.getElementById("t4").value=""
+document.getElementById("t44").value=""
+document.getElementById("t444").value=""
 document.getElementById("t13").value=""
 }
